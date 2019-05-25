@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\khuta\desktop\לימוד\שנה 4\סמסטר 1\6- בינה מלאכותית\backpropagation with bais\first\first\main.cpp(48): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  LINK : C:\Users\khuta\Desktop\לימוד\שנה 4\סמסטר 1\6- בינה מלאכותית\backpropagation with bais\First\Debug\First.exe not found or not built by the last incremental link; performing full link
+  First.vcxproj -> C:\Users\khuta\Desktop\לימוד\שנה 4\סמסטר 1\6- בינה מלאכותית\backpropagation with bais\First\Debug\First.exe
+  First.vcxproj -> C:\Users\khuta\Desktop\לימוד\שנה 4\סמסטר 1\6- בינה מלאכותית\backpropagation with bais\First\Debug\First.pdb (Full PDB)
